@@ -2,6 +2,8 @@
 Post available at: https://djangopy.org/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/
 This is the example project for integrating MailChimp to Django
 
+#### Note: Please Change the API KEY in the settings.py file. Replace with your API Keys
+
 ## Installation guide
 
 1. Clone repository 
